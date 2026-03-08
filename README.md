@@ -39,4 +39,4 @@ Small Language Models (SLMs) and efficient model adaptation.
 
 ---
 
-📫 LinkedIn: (add your linkedin link)
+📫 LinkedIn: https://www.linkedin.com/in/prerita-shukla-a5799b280
