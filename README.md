@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Prerita Shukla
 
-<!--
-**preritashukla/preritashukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student in Information and Communication Technology with a minor in Computational Data Science working on applied AI systems.
 
-Here are some ideas to get you started:
+## Current Interests
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- Multimodal Machine Learning
+- AI Agents and Decision Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Healthcare AI Copilot
+RAG-based clinical decision support system built using LLMs to analyze patient history and medical documents.
+
+Tech: Python, RAG, LLM APIs, FastAPI
+
+---
+
+### Multimodal Prediction Pipeline
+Combined CLIP vision embeddings with SentenceTransformers text embeddings to build an image + text prediction model.
+
+Tech: CLIP, Python, ML pipelines
+
+---
+
+### AutoDoc – Predictive Vehicle Maintenance Agent
+Agentic AI system using telemetry data to predict component failure and trigger service workflows.
+
+Tech: LangGraph, Python, Streamlit
+
+---
+
+## Tools & Technologies
+Python • Machine Learning • Pandas • FastAPI • LangGraph • Streamlit • CLIP • SentenceTransformers
+
+## Currently Exploring
+Small Language Models (SLMs) and efficient model adaptation.
+
+---
+
+📫 LinkedIn: (add your linkedin link)
